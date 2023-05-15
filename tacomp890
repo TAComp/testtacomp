@@ -8,16 +8,7 @@ https://raw.githubusercontent.com/TAComp/tacomptv/main/Rules%20TAC.mp4?raw=true
 #EXTINF:-1 tvg-id="TAC TV" tvg-logo="https://i.postimg.cc/N0SDVTwz/tacomptvlogo.png" group-title="Informasi",Tacomp v.1.0.22
 https://raw.githubusercontent.com/TAComp/tacomptv/main/Tacomp3.mp4?raw=true
 
-
-================== BRI LIGA INDONESIA ====================
-
-
-#LIGA INGGRIS
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-BzSjB94C27M/VKLYBnfWN5I/AAAAAAAAA6Q/lvRHobvWTU4/s1600/logo%2Bbarclays%2Bpremier%2Bleague.png" group-title="LIGA INGGRIS",Live 1
-
-
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-BzSjB94C27M/VKLYBnfWN5I/AAAAAAAAA6Q/lvRHobvWTU4/s1600/logo%2Bbarclays%2Bpremier%2Bleague.png" group-title="LIGA INGGRIS",Live 2
-
+======================================================================================
 
 #Nasional
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Nasional",Metro TV
